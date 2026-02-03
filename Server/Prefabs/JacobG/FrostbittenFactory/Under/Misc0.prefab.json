@@ -1,0 +1,3776 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": -6,
+  "anchorY": 1,
+  "anchorZ": -4,
+  "blocks": [
+    {
+      "x": -6,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -1,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -1,
+      "name": "Furniture_Ancient_Platform"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Ice_Stalactite_Large"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 1024
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 0,
+      "name": "Furniture_Ancient_Barrel"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 0,
+      "name": "Furniture_Ancient_Platform"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 0,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 1,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Ice_Stalactite_Large"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 1024
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 4,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -1,
+      "name": "*Rail_State_Definitions_Slope",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 0,
+      "name": "*Rail_State_Definitions_Slope",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 1,
+      "name": "*Rail_State_Definitions_Slope",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 2,
+      "name": "Rail",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 3,
+      "name": "*Rail_State_Definitions_Slope"
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 4,
+      "name": "*Rail_State_Definitions_Slope"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Ice_Icicles"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ice_Stalactite_Large",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 2,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 4,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "*Rail_State_Definitions_Slope",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "*Rail_State_Definitions_Slope",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Rail",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "*Rail_State_Definitions_Slope"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 4,
+      "name": "*Rail_State_Definitions_Slope"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Ice_Icicles"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 4,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 4,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 4,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Ice_Icicles"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
+      "name": "Rock_Ice_Stalactite_Large"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 4,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Rock_Ice_Icicles"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Ancient_Table",
+      "filler": 992,
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Furniture_Ancient_Candle"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Ancient_Table",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Furniture_Ancient_Barrel"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Ancient_Table",
+      "filler": 993,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Deco_Bone_Pile"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Ancient_Table",
+      "filler": 1,
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Iron_Stack",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Iron_Stack",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Ice_Icicles"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ice_Stalactite_Large",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Deco_Iron_Stack",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Iron_Stack",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Deco_Iron_Stack",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ice_Stalactite_Large",
+      "rotation": 8
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Iron_Stack",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Deco_Iron_Stack",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Iron_Stack",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Ice_Icicles"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "Furniture_Ancient_Barrel"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Rock_Ice_Icicles"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 4,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 4,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -3,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -1,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Ancient_Crate",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 1,
+      "name": "Furniture_Ancient_Barrel"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ice_Stalactite_Large",
+      "rotation": 8
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 4,
+      "name": "Block_Spawner_Block",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "B1yBGZcjQ2KREo5yyLGY0g==",
+              "$type": "04"
+            }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "Zone3_Outlander_Tier2"
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Ice_Stalactite_Large"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 1024
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Ancient_Crate",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -1,
+      "name": "Furniture_Ancient_Barrel"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Ancient_Crate",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 0,
+      "name": "Furniture_Ancient_Crate",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 1,
+      "name": "Furniture_Ancient_Crate",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 1,
+      "name": "Furniture_Ancient_Crate",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 2,
+      "name": "Furniture_Ancient_Bench",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Ancient_Bench",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 4,
+      "name": "Furniture_Ancient_Barrel"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Deadwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    }
+  ]
+}

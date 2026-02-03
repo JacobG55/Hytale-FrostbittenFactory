@@ -1,0 +1,4425 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": -6,
+  "anchorY": 1,
+  "anchorZ": -4,
+  "blocks": [
+    {
+      "x": -6,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -4,
+      "name": "Empty",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Ancient_Pot",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -1,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -1,
+      "name": "Deco_SpiderWeb",
+      "support": 15,
+      "rotation": 11
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -1,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 0,
+      "name": "Deco_Treasure",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 0,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 0,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 1,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 1,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 2,
+      "name": "Furniture_Ancient_Pot",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 2,
+      "name": "Furniture_Ancient_Painting",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Treasure",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Ancient_Shelf",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Treasure_Pile_Small",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 5
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -3,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -1,
+      "name": "Deco_Treasure_Pile_Small",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 0,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ice_Stalactite_Large",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Book_Pile_Small",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Treasure",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 4,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 4,
+      "name": "Deco_Treasure_Pile_Small",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Deco_Treasure"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Treasure_Pile_Small",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 4,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 4,
+      "name": "Deco_Treasure",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 4,
+      "name": "Deco_SpiderWeb",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorIn"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorIn",
+      "filler": 1024
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorIn",
+      "filler": 2048
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorIn",
+      "filler": 3072
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Treasure",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 4,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 4,
+      "name": "Deco_Book_Pile_Small",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorIn",
+      "filler": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorIn",
+      "filler": 1025
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorIn",
+      "filler": 2049
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorIn",
+      "filler": 3073
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ice_Stalactite_Large",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 4,
+      "name": "Furniture_Ancient_Platform",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 4,
+      "name": "Deco_Treasure",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorOut",
+      "filler": 31,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorOut",
+      "filler": 1055,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorOut",
+      "filler": 2079,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorOut",
+      "filler": 3103,
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Treasure",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 4,
+      "name": "Deco_SpiderWeb",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorOut",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorOut",
+      "filler": 1024,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorOut",
+      "filler": 2048,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "*Furniture_Frostbitten_Factory_Vault_Large_State_Definitions_CloseDoorOut",
+      "filler": 3072,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Deco_SpiderWeb",
+      "support": 15,
+      "rotation": 10
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ice_Stalactite_Large",
+      "rotation": 8
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Bone_Skulls"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Block_Spawner_Block",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "B1yBGZcjQ2KREo5yyLGY0g==",
+              "$type": "04"
+            }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "Zone3_Outlander_Tier2"
+          }
+        }
+      },
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "name": "Furniture_Ancient_Shelf",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Ancient_Barrel"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Ancient_Bench",
+      "filler": 31
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Bone_Pile"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "name": "Furniture_Ancient_Shelf",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Ancient_Bench"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Ice_Icicles"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Treasure",
+      "rotation": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Bronze_Smooth"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 1,
+      "name": "Bronze_Pipe_Large"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "Bronze_Pipe_Large",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 3,
+      "name": "Bronze_Pipe_Large",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "name": "Rubble_Basalt_Medium",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "name": "Bronze_Pipe_Large",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Ancient_Bench",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Deco_Bone_Pile"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Ice_Stalactite_Large",
+      "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Furniture_Ancient_Table",
+      "filler": 31,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Furniture_Ancient_Candle"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Furniture_Ancient_Table",
+      "filler": 63,
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Book_Pile_Small",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Treasure",
+      "rotation": 3
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "Furniture_Ancient_Painting",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Ancient_Bench",
+      "filler": 1,
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -1,
+      "name": "Deco_Book_Pile_Small",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": -1,
+      "name": "Bronze_Pipe_Large",
+      "rotation": 4
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "name": "Bronze_Pipe_Large",
+      "rotation": 4
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 1,
+      "name": "Furniture_Ancient_Table",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 1,
+      "name": "Deco_Tankard"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 1,
+      "name": "Bronze_Pipe_Large",
+      "rotation": 4
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 2,
+      "name": "Furniture_Ancient_Table",
+      "filler": 32,
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 2,
+      "name": "Deco_Treasure"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "name": "Bronze_Pipe_Large",
+      "rotation": 4
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 3,
+      "name": "Furniture_Ancient_Chair",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "name": "Bronze_Pipe_Large",
+      "rotation": 4
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 4,
+      "name": "Deco_Treasure_Pile_Small",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 4,
+      "name": "Bronze_Pipe_Large",
+      "rotation": 4
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -4,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Ancient_Crate",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -1,
+      "name": "Block_Spawner_Block",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "B1yBGZcjQ2KREo5yyLGY0g==",
+              "$type": "04"
+            }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "Zone3_Outlander_Tier2"
+          }
+        }
+      }
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": -1,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": -1,
+      "name": "Deco_SpiderWeb",
+      "support": 15,
+      "rotation": 10
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": -1,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Book_Pile_Small",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Ice_Icicles",
+      "rotation": 8
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 2,
+      "name": "Deco_Treasure",
+      "rotation": 3
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Ice_Icicles"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 3,
+      "name": "Rock_Ice_Stalactite_Large",
+      "filler": 31744,
+      "rotation": 8
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Ice_Stalactite_Large",
+      "rotation": 8
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 4,
+      "name": "Furniture_Ancient_Pot",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 6
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 4,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -4,
+      "name": "Furniture_Ancient_Barrel"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -3,
+      "name": "Furniture_Ancient_Crate",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -3,
+      "name": "Furniture_Ancient_Crate",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": -3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -1,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -1,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": -1,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": -1,
+      "name": "Deco_Book_Pile_Small",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": -1,
+      "name": "Deco_SpiderWeb_Full",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 0,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 0,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 0,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 0,
+      "name": "Rubble_Basalt",
+      "support": 15
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 0,
+      "name": "Deco_SpiderWeb_Flat",
+      "support": 15,
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 1,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 1,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 1,
+      "name": "Deco_Book_Pile_Small",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 2,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 2,
+      "name": "Deco_Book_Pile_Small",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 2,
+      "name": "Furniture_Ancient_Shelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Bone_Pile"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 3,
+      "name": "Furniture_Ancient_Shelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 3,
+      "name": "Furniture_Ancient_Shelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 3,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 3,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Basalt",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 4,
+      "name": "Furniture_Ancient_Bookshelf",
+      "rotation": 3
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 4,
+      "name": "Deco_Book_Pile_Small",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 4,
+      "name": "Deco_SpiderWeb",
+      "support": 15,
+      "rotation": 8
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 4,
+      "name": "Rock_Basalt_Brick_Half",
+      "rotation": 7
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 4,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 5,
+      "name": "Rock_Basalt_Brick"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 5,
+      "name": "Rock_Basalt_Brick",
+      "rotation": 2
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "EffectController": {},
+        "DisplayName": {
+          "DisplayName": {
+            "MessageId": "server.npcRoles.Skeleton_Frost_Fighter.name",
+            "Bold": null,
+            "Italic": null,
+            "Monospace": null,
+            "Underline": null
+          }
+        },
+        "UIComponentList": {},
+        "Transform": {
+          "Position": {
+            "X": -4.825289531607126,
+            "Y": 1.0,
+            "Z": 1.836973795720355
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.4979355335235596,
+            "Roll": 0.0
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          }
+        },
+        "Model": {
+          "Model": {
+            "Id": "Skeleton_Frost_Fighter",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "BZuxcdxwPfStggQJh8lGdw==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 0.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 74.0
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "W89xMkKFPSSX7FwFwexRrw==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "Storage": {
+              "Id": "Empty"
+            },
+            "Armor": {
+              "Id": "Simple",
+              "Capacity": 4,
+              "Items": {}
+            },
+            "HotBar": {
+              "Id": "Simple",
+              "Capacity": 3,
+              "Items": {
+                "0": {
+                  "Id": "Weapon_Club_Iron_Rusty",
+                  "Quantity": 1,
+                  "Durability": 81.0,
+                  "MaxDurability": 81.0,
+                  "OverrideDroppedItemAnimation": false
+                }
+              }
+            },
+            "Utility": {
+              "Id": "Simple",
+              "Capacity": 2,
+              "Items": {
+                "0": {
+                  "Id": "Furniture_Crude_Torch",
+                  "Quantity": 1,
+                  "Durability": 0.0,
+                  "MaxDurability": 0.0,
+                  "OverrideDroppedItemAnimation": false
+                }
+              }
+            },
+            "Backpack": {
+              "Id": "Empty"
+            },
+            "ActiveHotbarSlot": 0,
+            "Tool": {
+              "Id": "Empty"
+            },
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1,
+            "SortType": "Name"
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 1.0,
+          "SpawnInstant": "0001-01-01T12:00:00Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": 175.17471046839287,
+            "Y": 56.0,
+            "Z": 5.836973795720355
+          },
+          "LeashHdg": -1.4979355335235596,
+          "LeashPtch": 0.0,
+          "RoleName": "Skeleton_Frost_Fighter"
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.4979355335235596,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}
