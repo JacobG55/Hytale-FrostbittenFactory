@@ -1,0 +1,21 @@
+{
+  "InstanceId": "Frostbitten_Factory_Fragment",
+  "Description": {
+    "DisplayName": "server.Frostbitten_Factory_Dungeon.name",
+    "FlavorText": "server.Frostbitten_Factory_Dungeon.description",
+    "ThemeColor": "#7ee1bf",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "server.Frostbitten_Factory_Dungeon.tip1"
+    ]
+  },
+  "PlayerSpawn": {
+    "Y": 100,
+    "ScanHeight": 2,
+    "Center": {
+      "X": 0,
+      "Y": 100,
+      "Z": 0
+    }
+  }
+}

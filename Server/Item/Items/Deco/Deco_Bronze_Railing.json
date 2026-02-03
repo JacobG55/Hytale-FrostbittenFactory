@@ -1,0 +1,81 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Deco_Bronze_Railing.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Bronze_Railing.png",
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Set": "Deco_Iron",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Iron",
+        "Quantity": 1
+      }
+    ],
+    "OutputQuantity": 2,
+    "BenchRequirement": [
+      {
+        "Type": "StructuralCrafting",
+        "Id": "Builders",
+        "Categories": [
+          "Wall"
+        ]
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Bronze_Bars.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Bronze_Bars_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Fence_Thin",
+    "VariantRotation": "Wall",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "ConnectedBlockRuleSet": {
+      "Type": "CustomTemplate",
+      "TemplateShapeAssetId": "WallConnectedBlockTemplate",
+      "TemplateShapeBlockPatterns": {
+        "Straight": "Deco_Bronze_Railing",
+        "Corner": "Deco_Bronze_Railing_Corner"
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "ParticleColor": "#d3c591",
+    "BlockSoundSetId": "Metal"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Iron"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

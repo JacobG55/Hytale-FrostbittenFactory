@@ -1,0 +1,59 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Deco_Bronze_Railing_Corner.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Bronze_Railing_Corner.png",
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Parent": "Deco_Bronze_Railing",
+  "Set": "Deco_Iron",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Bronze_Bars_Corner.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "Blocks/Bronze_Bars_Texture.png"
+      }
+    ],
+    "HitboxType": "Fence_Corner_Thin",
+    "VariantRotation": "NESW",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks",
+        "ItemId": "Deco_Bronze_Railing"
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "ParticleColor": "#d3c591",
+    "BlockSoundSetId": "Metal",
+    "FlipType": "Orthogonal"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Iron"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Variant": true,
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "Tags": {
+    "Zone3": []
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "FrostbittenFactory_Fragment_Weather",
+        "Weight": 1
+      }
+    ]
+  }
+}

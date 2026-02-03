@@ -1,0 +1,44 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Rock_Bronze_Smooth.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Rock_Bronze_Smooth.png",
+  "Set": "",
+  "BlockType": {
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "Textures": [
+      {
+        "All": "Blocks/Rock_Bronze_Smooth_Top.png",
+        "Weight": 1
+      }
+    ],
+    "BlockSoundSetId": "Metal",
+    "ParticleColor": "#d3c591"
+  },
+  "Tags": {
+    "Family": [
+      "Gold"
+    ],
+    "Type": [
+      "Rock"
+    ]
+  },
+  "Parent": "Rock_Gold_Brick",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

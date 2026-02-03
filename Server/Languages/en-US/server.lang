@@ -1,0 +1,16 @@
+items.Bronze_Pipe_Large.name = Bronze Pipe Large
+items.Furniture_Frostbitten_Factory_Vault_Large.name = Basalt Vault Door Large
+items.Furniture_Frostbitten_Factory_Vault_Medium.name = Basalt Vault Door Medium
+items.Rock_Bronze_Smooth.name = Smooth Bronze
+items.Deco_Bronze_Railing.name = Bronze Railing
+items.Deco_Bronze_Railing_Corner.name = Bronze Railing Corner
+items.Furniture_Basalt_Trough.name = Basalt Trough
+items.Deco_Mystery_Machine_Large.name = Mysterious Machine
+
+items.PortalKey_Frostbitten_Factory.name = Fragment: Frostbitten Factory
+items.PortalKey_Frostbitten_Factory.description = <msg key="server.items.PortalKey.description"/>\n\n<i>Deep below the depths of icy landscapes ruins of a place have been forgotten to time. What was once created here?</i>
+
+Frostbitten_Factory_Dungeon.name = Frostbitten Factory
+Frostbitten_Factory_Dungeon.description = Rumors speak of a time before the void corrupted the frozen plains. Deep underground civilizations constructing in secrecy. It is unclear what was being created here or if it was ever completed. All that is certian is a new set of residence call this place home.\n
+Frostbitten_Factory_Dungeon.tip1 = <color is="#05c09a">The ruins may be sprawling with the undead.</color>
+
